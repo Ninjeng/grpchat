@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676731103491",
+    "project_id": "grpchat-a6e7f",
+    "storage_bucket": "grpchat-a6e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676731103491:android:f35fb47be0bcf66f07a136",
+        "android_client_info": {
+          "package_name": "com.ninzen.grp_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676731103491-4er0irbg2kuocrcitdup0s2vsru7fpiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCRY9_hUyvs4z8jU0VqrNwDd9HlZWF-8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676731103491-4er0irbg2kuocrcitdup0s2vsru7fpiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
